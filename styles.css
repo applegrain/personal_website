@@ -23,7 +23,7 @@ body {
 }
 
 .aside {
-  width: 25%;
+  width: 30%;
   margin: 5em;
   float: right;
 }
@@ -48,4 +48,9 @@ body {
 
 .aside i {
   padding-right: 30px;
+}
+
+.icons b {
+  padding-right: 20px;
+  font-size: 30px;
 }
